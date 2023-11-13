@@ -2,7 +2,7 @@
 
 Bu proje, bir yönetim paneli oluşturmak için kullanılan bir React uygulamasını içerir. Aşağıda, projenin geliştirilmesi ve çalıştırılması için gerekli adımlar bulunmaktadır.
 
-<img src="/src/images/gif1.gif"/>
+<img src="/src/images/gif.gif"/>
 
 ## Bağımlılıklar
 
