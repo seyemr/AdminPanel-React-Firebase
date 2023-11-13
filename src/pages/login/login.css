@@ -1,0 +1,56 @@
+.login {
+  background-color: rgb(97, 97, 83);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px;
+  margin-top: 0;
+}
+.login form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 50%;
+  height: 50%;
+}
+.login form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.login form .btn {
+  display: flex;
+  gap: 20px;
+  width: 50%;
+  height: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.login form .btn button {
+  padding: 10px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+}
+.login form .btn button .link {
+  color: #fff;
+  text-decoration: none;
+}
+.login form .google {
+  margin-top: 10px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+}
+.login form:last-child {
+  margin-top: 20px;
+}
+.login span {
+  color: #e74c3c;
+  font-weight: bold;
+}
+.login span.success-message {
+  color: #2ecc71;
+}/*# sourceMappingURL=login.css.map */
